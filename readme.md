@@ -1,13 +1,13 @@
 # Mustafaskir -Laravel Blog Articles
 
 ## Application Installation
-create anew database "mustafaskir"
+create a new database "mustafaskir" or you can change dbname as you like in .env file
 <br />
 open your terminal
 <br />
 php artisan serve
 <br />
-open a new terminal to passed table && data to your db
+open a new terminal to passed tables && data to your db
 <br />
 php artisan migrate
 <br />
